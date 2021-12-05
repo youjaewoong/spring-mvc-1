@@ -20,3 +20,12 @@
 
 기본 해더 조회 - RequestHeaderController
 * request, response, httpMethod, locale, headerMap, host, cookie
+
+HTTP 요청 파라미터 - RequestParamController
+* response.getWriter().write("ok");
+* @RequestParam
+* defaultValue 사용
+* @RequestParam Map, MultiValueMap
+* 
+*
+*
