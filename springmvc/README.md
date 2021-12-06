@@ -26,6 +26,5 @@ HTTP 요청 파라미터 - RequestParamController
 * @RequestParam
 * defaultValue 사용
 * @RequestParam Map, MultiValueMap
-* 
-*
-*
+* @ModelAttribute
+* HelloData helloData (@ModelAttribute 생략)
