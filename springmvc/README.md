@@ -42,3 +42,8 @@ RequestBodyJsonController
 * @RequestBody 객체 타입 요청처리
 * HttpEntity<T> 타입 요청처리
 * @RequestBody 객체 타입 요청 및 응답 처리
+
+응답 - 정적 리소스, 뷰 템플릿 - ResponseViewController
+* ModelAndView 응답 처리
+* return 타입 Model 응답 처리
+* void 타입 Model 응답 처리
