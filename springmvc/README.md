@@ -28,3 +28,9 @@ HTTP 요청 파라미터 - RequestParamController
 * @RequestParam Map, MultiValueMap
 * @ModelAttribute
 * HelloData helloData (@ModelAttribute 생략)
+
+HTTP 요청 메시지 - 단순 텍스트
+RequestBodyStringController
+* inputStream 요청처리
+* httpEntity 요청처리
+* @RequestBody 요청처리
