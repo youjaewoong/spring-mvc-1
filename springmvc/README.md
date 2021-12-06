@@ -34,3 +34,11 @@ RequestBodyStringController
 * inputStream 요청처리
 * httpEntity 요청처리
 * @RequestBody 요청처리
+
+HTTP 요청 메시지 - JSON
+RequestBodyJsonController
+* InputStream objectMapper 변환 요청처리
+* @RequestBody String 타입 objectMapper 변환 요청처리
+* @RequestBody 객체 타입 요청처리
+* HttpEntity<T> 타입 요청처리
+* @RequestBody 객체 타입 요청 및 응답 처리
