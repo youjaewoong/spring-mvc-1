@@ -47,3 +47,10 @@ RequestBodyJsonController
 * ModelAndView 응답 처리
 * return 타입 Model 응답 처리
 * void 타입 Model 응답 처리
+
+HTTP 응답 - HTTP API, 메시지 바디에 직접 입력 - ResponseBodyController
+* response.getWriter().write("ok") 응답 처리
+* ResponseEntity 응답 처리
+* 객체 응답 처리
+
+
